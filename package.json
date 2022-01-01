@@ -1,0 +1,22 @@
+{
+  "name": "weather-project",
+  "version": "1.0.0",
+  "description": "Using APIs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-oshitade/weather-project.git"
+  },
+  "author": "Seun Oshitade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-oshitade/weather-project/issues"
+  },
+  "homepage": "https://github.com/s-oshitade/weather-project#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
